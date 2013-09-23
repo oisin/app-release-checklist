@@ -170,6 +170,22 @@ Test each major view in the app.
 
 --
 
+###Third Party Services
+All third party services should use production API key and the new app version should be registered in the respective dashboards
+
+| Title | N/A | NO | YES |
+|:---|:---:|:---:|:---:|
+| Production analytics/tracking API key | | | |
+| New app version tracking data available tracking in dashboard | | | |
+| Production crash reporting API key | | | |
+| Upload dysm to crash reporting tool | | | |
+| New app version available in crash reporting dashboard | | | |
+| Push notification service API key | | | |
+| New app version added to push service dashboard | | | |
+| Production App ID for social services (Twitter, Facebook, Instagram, etc) | | | |
+
+--
+
 ###Misc
 
 | Misc | N/A | NO | YES |
