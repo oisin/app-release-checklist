@@ -113,6 +113,19 @@ Streaming video should have been checked in the network tests.
 
 --
 
+###Camera / Video
+If app takes pictures or video clips, perform the following checks. For streaming video, make sure the checks in the network section above have also been done.
+
+| Camera / Video | N/A | NO | YES |
+|:---|:---:|:---:|:---:|
+| Primary camera photo taken | | | |
+| Primary camera video captured | | | |
+| Secondary (user facing) camera taken | | | |
+| Secondary (user facing) video captured | | | |
+| Video recording paused on received phone call | | | |
+
+--
+
 ###Logging
 
 | Logging | N/A | NO | YES |
@@ -167,6 +180,7 @@ Test each major view in the app.
 | Text selection (including disabled when appropriate) | | | |
 | Copy / Paste | | | |
 | Editing when keyboard is hidden | | | |
+| Dictionary / Suggested Word hover | | | |
 
 --
 
@@ -190,6 +204,7 @@ All third party services should use production API key and the new app version s
 
 | Misc | N/A | NO | YES |
 |:---|:---:|:---:|:---:|
+| Bluetooth | | | |
 | Motion | | | |
 | Tested in Ad Hoc mode | | | |
 | Version number upgraded | | | |
