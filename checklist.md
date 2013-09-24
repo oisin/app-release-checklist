@@ -40,7 +40,7 @@ Change device’s settings then load the app. Check that dates appear correctly,
 | Regions: **fork and add regions for you** | | | |
 | Languages: **fork and add languages for you** | | | |
 | Timezones  | | | |
-| Daylight Savings time | | | |
+| Daylight Savings Time | | | |
 
 --
 
@@ -55,7 +55,7 @@ Run the application through navigations using different devices with different i
 | iPhone / iPod touch running iOS 6.1.3 | | | |
 | iPhone / iPod touch running iOS 7.0 | | | |
 | Retina iPhone display | | | |
-| Non-retuna iPhone display | | | |
+| Non-retina iPhone display | | | |
 | iPad 1 running iOS 5.0 | | | |
 | iPad 1 running iOS 5.0 | | | |
 | iPhone / iPod touch running iOS 5.1.1 | | | |
@@ -107,7 +107,7 @@ Streaming video should have been checked in the network tests.
 | Wifi location | | | |
 | Cell tower location | | | |
 | Unable to find location | | | |
-| No results returned (eg too far from any searchable points of interest).  | | | |
+| No results returned (e.g. too far from any searchable points of interest)  | | | |
 | Location services turned off | | | |
 | Location services disabled for this app | | | |
 
@@ -178,7 +178,7 @@ All third party services should use production API key and the new app version s
 | Production analytics/tracking API key | | | |
 | New app version tracking data available tracking in dashboard | | | |
 | Production crash reporting API key | | | |
-| Upload dysm to crash reporting tool | | | |
+| Upload dSYM to crash reporting tool | | | |
 | New app version available in crash reporting dashboard | | | |
 | Push notification service API key | | | |
 | New app version added to push service dashboard | | | |
